@@ -10,8 +10,8 @@ Este repositorio esta dedicado a la prueba tecnica de Talana
 
 1. Clonar el repositorio en máquina local:
 ```
-git clone 
-cd easyly
+git clone git@github.com:YessicaCh/GamerTalana.git
+cd GamerTalana
 ```
 2. Crear un entorno virtual dentro del directorio del proyecto:
 ```
